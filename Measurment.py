@@ -1,11 +1,3 @@
-# USAGE
-#########################
-#    EMİRHAN ÇELİK	#
-#	07.11.2018   	#	
-#	*Ilmenau*	#
-#			#
-#########################
-# python contour_only.py --image images/coins_01.png
 
 # import the necessary packages
 
